@@ -40,6 +40,14 @@ All services communicate through internal service discovery and are designed to 
 
 ---
 
+## System Architecture
+
+The following diagram illustrates the high-level architecture of the Nexora Platform.
+
+![Architecture Diagram](images/architecture-diagram.png)
+
+---
+
 # Microservices
 
 ## Discovery Service
